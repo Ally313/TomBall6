@@ -28,7 +28,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	<plugin name="https://github.com/cranberrygame/cordova-plugin-share-facebook --variable APP_ID='YOUR_FACEBOOK_APP_ID' --variable APP_NAME='YOUR_FACEBOOK_APP_NAME'" />
+	<plugin name="https://github.com/cranberrygame/cordova-plugin-share-facebook --variable APP_ID='533404854151139' --variable APP_NAME='Tomball'" />
 
 
 	<engine name="ios" />
